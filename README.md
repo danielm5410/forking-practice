@@ -1,4 +1,4 @@
-# Directions:
+mkd# Directions:
 1. Fork this repo by clicking **Fork** in the top-right corner. Awesome, now you know how to fork. All of the directions below are just other cool things you can do with Git & Github.
 2. Now that you have your own copy, go into the repo settings (gear icon) and rename your copy to `forking-practice`.
 3. Clone your remote copy into your local IDE.
